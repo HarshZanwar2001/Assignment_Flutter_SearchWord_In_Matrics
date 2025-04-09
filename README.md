@@ -24,7 +24,11 @@ A Flutter application where users can:
 
 ## 🧩 Screenshots
 
-> *[Include screenshots of each step like grid entry, word search, and highlights]*
+> ![image](https://github.com/user-attachments/assets/ea04ef75-d6aa-4dad-bc07-a8e74c479538)
+> ![image](https://github.com/user-attachments/assets/3284f238-d5f9-4cae-a6ef-115ecc90ae71)
+> ![image](https://github.com/user-attachments/assets/a1b52aec-3a13-4efa-bdae-efe742ab41a9)
+> ![image](https://github.com/user-attachments/assets/3b17456d-698a-494e-88b8-5ace17c092a7)
+
 
 ---
 
@@ -71,20 +75,14 @@ lib/
 
 ---
 
-## 📆 APK & Source Delivery
 
-Once built, share:
-- 📱 APK file
-- 📁 Source code (.zip)
-
-**Send both to:** `hr@mobigic.com` via Dropbox, Google Drive, etc.
 
 ---
 
 ## 🧑‍💼 Developer
 
 **👤 Harsh**  
-📢 [Email](mailto:your-email@example.com) | 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📢 [Email](mailto:zanwarharsh2001@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/harsh-zanwar-46a9b61aa/)  
 
 ---
 
