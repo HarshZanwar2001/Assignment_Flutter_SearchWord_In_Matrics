@@ -59,7 +59,7 @@ lib/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/word-grid-search.git
+   git clone https://github.com/HarshZanwar2001/Assignment_Flutter_SearchWord_In_Matrics.git
    cd word-grid-search
    ```
 
