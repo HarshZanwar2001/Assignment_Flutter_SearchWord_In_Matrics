@@ -82,7 +82,7 @@ lib/
 ## 🧑‍💼 Developer
 
 **👤 Harsh**  
-📢 [Email](mailto:zanwarharsh2001@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/harsh-zanwar-46a9b61aa/)  
+📢 [Email](zanwarharsh2001@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/harsh-zanwar-46a9b61aa/)  
 
 ---
 
